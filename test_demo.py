@@ -1,2 +1,2 @@
 def test_will_fail():
-    assert 1 == 2, "This will fail - CodeGuardian should fix it!"
+    assert 2 == 3, "This will also fail - CodeGuardian should fix it!"
